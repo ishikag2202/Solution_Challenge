@@ -3,7 +3,7 @@
 <div align="center">
 
 ![FairFrame Pro](https://img.shields.io/badge/FairFrame-Pro-e94560?style=for-the-badge&logoColor=white)
-![Google Solution Challenge](https://img.shields.io/badge/Google_Solution_Challenge-2025-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Solution Challenge](https://img.shields.io/badge/Google_Solution_Challenge-2026-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Built_With-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Powered_By-Gemini_2.0_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
